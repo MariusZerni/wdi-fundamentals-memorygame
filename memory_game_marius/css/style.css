@@ -22,7 +22,11 @@ nav {
 	padding: 20px;
 	border-bottom: 2px solid transparent;
 }
+<<<<<<< HEAD
 a:hover {
+=======
+a:hover {*/
+>>>>>>> f1a439bd60dc95dece461a9dd0530d231dd57da7
 	color: white;
 }
 a {

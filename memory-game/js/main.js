@@ -1,5 +1,6 @@
 console.log('Up and running');
 
+<<<<<<< HEAD
 
 
 
@@ -24,3 +25,12 @@ cardsInPlay;
 
 
 console.log('User flipped' + ' ' + cardsInPlay);
+=======
+let cardOne = 'queen';
+let cardTwo = 'queen';
+let cardThree = 'king';
+let cardFour = 'king';
+
+console.log('User flipped' + ' ' + cardTwo);
+console.log("User flipped " + cardThree);
+>>>>>>> f1a439bd60dc95dece461a9dd0530d231dd57da7
