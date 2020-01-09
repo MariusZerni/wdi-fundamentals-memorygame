@@ -94,6 +94,14 @@ img {
   margin: 40px 8px 0;
 }
 
+#reset-button {
+  padding: 15px 40px;
+  margin-top: 35px;
+  background: red;
+  font-size: 22px;
+  border-radius: 10px;
+}
+
 /* =============================
 FOOTER
 ================================ */
