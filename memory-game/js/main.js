@@ -29,9 +29,9 @@ let cardsInPlay = [];
 function checkForMatch() {
 
 	if (cardsInPlay[0] === cardsInPlay[1]) {
-		console.log('You found a match!');
+		alert('You found a match!');
 	} else {
-		console.log('Sorry, try again.')
+		alert('Sorry, try again.')
 	}
 }
 
@@ -77,10 +77,6 @@ function createBoard() {
 	buttonNode.addEventListener('click', reset);
 }
 
-//const imgNode = document.querySelector('img')
-//imgNode.addEventListener('click', img);
-
-alert('Sorry, try again');
 
 createBoard();
 
